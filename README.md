@@ -1,1 +1,1 @@
-Autoclicker simples, altere como desejar
+Autoclicker extremamente simples, altere como desejar 👍👍

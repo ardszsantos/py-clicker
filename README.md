@@ -3,3 +3,4 @@
 
 *Para usar excecute o arquivo(t.py) pelo terminal, depois posicione o mouse na posição desejada.*
 
+> py t.py 
